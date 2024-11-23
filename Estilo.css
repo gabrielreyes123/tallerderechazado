@@ -179,7 +179,7 @@ body{
   font-size: 35px;
   padding: 200px 0px;
   position: relative;
-  background: url("../img/portadaa.jpg")  no-repeat;
+  background: url("portadaa.jpg")  no-repeat;
   background-size: cover;
 }
 .Inicio-portada{
